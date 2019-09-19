@@ -8,6 +8,7 @@
 
 ### Create a new task
 * API GATEWAY: https://lltrgze6rl.execute-api.us-west-2.amazonaws.com/dev/task
+           
 
 * Method: POST
 
@@ -29,6 +30,7 @@
 
 ### Update a new task
 API GATEWAY: https://phv3cxw8ud.execute-api.us-west-2.amazonaws.com/dev/updatetask
+
 
 * Method: PUT
 
